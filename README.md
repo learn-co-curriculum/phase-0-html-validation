@@ -6,6 +6,7 @@ By now, you've probably noticed that the nested structure of HTML elements lends
 ## Objectives
 1. Identify W3C organization.
 2. Validate sample HTML.
+3. Identify HTML errors.
 
 ## Identify W3C organization and available HTML validation tools. 
 
@@ -28,6 +29,24 @@ As you scroll down the page, you should see a list of errors, or invalid HTML.
 ### What is HTML Validation? 
 Just as documents written in regular languages can have errors, so too can HTML. These can range from missing angle brackets to wrong or missing opening or closing tags, unnecessary or missing attributes, and many other issues. As stated above, modern browsers are pretty good at filling in the missing pieces, but with unpredictable results. By using tools like W3C's HTML Validator, we can catch these errors and prevent our user from having a poor experience. 
 
+## Identifying HTML Errors 
+
+Now that we have a page full of HTML validation errors, how do we start fixing them? There are several parts of the error message that will help us parse the error, and figure out exactly where it is and what we can do to fix it.
+
+### Error Description 
+The first line of the error is our error description. This is a narrative that gives us a little bit more information about our error. 
+
+![HTMLValidationErrors](https://s3.amazonaws.com/learn-verified/html-error-description.png)
+
+In this case, it's saying that there was an ending `</h2>` tag, but there was a different opening tag that came before it.
+
+### Error Location 
+The second and third lines of this error give us the exact location of the error, as well as a highlighted snippet of our HTML to help us exactly locate where the error is. 
+
+![HTMLValidationErrorLocation](https://s3.amazonaws.com/learn-verified/html-error-location.png)
+
+In this case, it's letting us know that our error is on line 10, from column 34-38. Line numbers will become very important in troubleshooting errors, in Javascript and CSS as well as HTML. These error messages can serve as a roadmap to us, and help us troubleshoot much more efficiently. 
+
 ### A Valid HTML Experience 
 Now, let's see what a valid HTML file returns. 
 
@@ -40,18 +59,13 @@ Now, let's see what a valid HTML file returns.
 
 You should see a green bar denoting that there are no errors or warnings to show. 
 
-### A note about cross-browser compatibility 
+![HTMLValidationPassed](https://s3.amazonaws.com/learn-verified/html-validation-passed.png)
 
-
-## Key Terms
 
 ## Resources
 [W3C](https://www.w3.org/)
 [HTML Validation Tool](https://validator.w3.org/)
 [Why Validate?](https://validator.w3.org/docs/why.html)
-
-<iframe width="640" height="480" src="//www.youtube.com/embed/nYglnxMUixM?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe>
-
-<p><a href="https://www.youtube.com/watch?v=nYglnxMUixM">HTML Validation</a></p>.
+[Video Walkthrough of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM)
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-validation' title='HTML Validation'>HTML Validation</a> on Learn.co and start learning to code for free.</p>
