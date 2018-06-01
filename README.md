@@ -99,8 +99,11 @@ show.
 
 ## Resources 
 [W3C](https://www.w3.org/) 
+
 [HTML Validation Tool](https://validator.w3.org/) 
+
 [Why Validate?](https://validator.w3.org/docs/why.html) 
+
 [Video Walkthrough of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM) 
 
 <p data-visibility='hidden'>View <a
