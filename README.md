@@ -44,12 +44,13 @@ HTML Validator](https://validator.w3.org/#validate_by_input).
 As you scroll down the page, you should see a list of errors, or invalid HTML.
 
 ### What is HTML Validation?  
-Just as documents written in regular languages can have errors, so too can HTML.
-These can range from missing angle brackets to wrong or missing opening or
-closing tags, unnecessary or missing attributes, and many other issues. As
-stated above, modern browsers are pretty good at filling in the missing pieces,
-but with unpredictable results. By using tools like W3C's HTML Validator, we can
-catch these errors and prevent our user from having a poor experience. 
+Like all other programming languages, HTML can contain all kinds of different
+errors. These can range from missing angle brackets to wrong or missing opening
+or closing tags, unnecessary or missing attributes, and many other issues. Our
+web browsers are pretty good at filling in the missing pieces but we can't
+always count on it being the same experience with every one. Tools like W3C's
+HTML Validator can catch these errors and prevent our user from having a poor
+experience.
 
 ## Identifying HTML Errors 
 
