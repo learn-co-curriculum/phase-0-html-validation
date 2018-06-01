@@ -1,16 +1,14 @@
 # HTML Validation 
 ## Problem Statement 
 
-By now, you've probably noticed that the nested structure of HTML elements lends
-itself to multiple typos, as well as the opportunity to wonder if you've
-actually closed all of your tags or not. While text editors can help, and modern
-day browsers are pretty good at compensating for malformed HTML, neither can
-always accurately predict a developer's intentions. Additionally, what Chrome
-chooses to display when an HTML error occurs could be very different from what
-Safari, Firefox, Internet Explorer, or any other browser chooses to display. How
-can we be certain that the HTML that we are writing is both within the current
-HTML standards, and error-free? Luckily, there are validation services that can
-help.
+You have written a few HTML pages by now. Did you accidentally break nesting and
+put emphasis on a whole page? Or did you type `<he>` instead of `<h3>`? How can
+we guard HTML? Many editors try to catch errors for us, and most browsers are
+pretty good at guessing what you meant. But what happens when Windows Edge
+guesses differently than Google Chrome? How can we be certain that our HTML
+meets standards and is error free? Luckily, the W3C – the people who define the
+tags of HTML – have a validation service we can use. We'll explain the W3C and
+their validator in this lesson.
 
 ## Objectives 
 1. Identify W3C organization. 
