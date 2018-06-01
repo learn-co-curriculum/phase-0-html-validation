@@ -1,4 +1,5 @@
-# HTML Validation ## Problem Statement 
+# HTML Validation 
+## Problem Statement 
 
 By now, you've probably noticed that the nested structure of HTML elements lends
 itself to multiple typos, as well as the opportunity to wonder if you've
@@ -100,7 +101,7 @@ show.
 [W3C](https://www.w3.org/) 
 [HTML Validation Tool](https://validator.w3.org/) 
 [Why Validate?](https://validator.w3.org/docs/why.html) 
-[Video Walkthrough of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM)
+[Video Walkthrough of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM) 
 
 <p data-visibility='hidden'>View <a
 href='https://learn.co/lessons/html-validation' title='HTML Validation'>HTML
