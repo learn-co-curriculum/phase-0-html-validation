@@ -88,11 +88,15 @@ to us, and help us troubleshoot much more efficiently.
 
 ### A Valid HTML Experience  Now, let's see what a valid HTML file returns
 
-1. Open the [`example_code_passing_validation.html`][s3-valid]  file in your
-   IDE or text editor
-2. Select the whole HTML contents in the file, and copy it
-3. In your web browser, navigate to [W3C's HTML Validator][valid8r]
-4. If not already selected, select the tab that says "Validate by Direct
+1. Open the [`example_code_passing_validation.html`][s3-valid] file in a new
+   tab. This will now be our new **viewing tab**
+2. In your **viewing tab**, navigate View &rarr; Developer &rarr; View Source
+   _or_ press Command-Option-U. This will give you the "Source View" of the
+   document
+3. Select the whole HTML contents in the file, and copy it
+4. In your web browser, navigate to [W3C's HTML Validator][valid8r] in a new
+   tab
+5. If not already selected, select the tab that says "Validate by Direct
    Input"
 5. Paste all of your copied HTML in the text box labeled "Enter the Markup to
    validate:"
