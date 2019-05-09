@@ -1,6 +1,12 @@
 # HTML Validation
 
-## Problem Statement
+## Learning Goals
+
+1. Identify W3C organization
+2. Validate sample HTML
+3. Identify HTML errors
+
+## Introduction
 
 You have written a few HTML pages by now. Did you accidentally break nesting and
 put emphasis on a whole page? Or did you type `<he>` instead of `<h3>`? How can
@@ -10,12 +16,6 @@ guesses differently than Google Chrome? How can we be certain that our HTML
 meets standards and is error free? Luckily, the W3C – the people who define the
 tags of HTML – have a validation service we can use. We'll explain the W3C and
 their validator in this lesson.
-
-## Objectives
-
-1. Identify W3C organization
-2. Validate sample HTML
-3. Identify HTML errors
 
 ## Identify W3C organization
 
