@@ -83,7 +83,7 @@ where the error is.
 
 In this case, it's letting us know that our error is on line 10, from column
 34-38. Line numbers will become very important in troubleshooting errors, in
-Javascript and CSS as well as HTML. These error messages can serve as a roadmap
+JavaScript and CSS as well as HTML. These error messages can serve as a road map
 to us, and help us troubleshoot much more efficiently.
 
 ### A Valid HTML Experience  Now, let's see what a valid HTML file returns
@@ -115,7 +115,7 @@ show.
 
 [Why Validate?](https://validator.w3.org/docs/why.html)
 
-[Video Walkthrough of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM)
+[Video Walk-Through of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM)
 
 <p data-visibility='hidden'>View <a
 href='https://learn.co/lessons/html-validation' title='HTML Validation'>HTML
