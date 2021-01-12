@@ -117,10 +117,6 @@ show.
 
 [Video Walk-Through of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM)
 
-<p data-visibility='hidden'>View <a
-href='https://learn.co/lessons/html-validation' title='HTML Validation'>HTML
-Validation</a> on Learn.co and start learning to code for free.</p>
-
 [s3-invalid]: https://curriculum-content.s3.amazonaws.com/web-development/html-validation/example_code.html
 [s3-valid]: https://curriculum-content.s3.amazonaws.com/web-development/html-validation/example_code_passing_validation.html
 [valid8r]: https://validator.w3.org/#validate_by_input
