@@ -86,7 +86,9 @@ In this case, it's letting us know that our error is on line 10, from column
 JavaScript and CSS as well as HTML. These error messages can serve as a road map
 to us, and help us troubleshoot much more efficiently.
 
-### A Valid HTML Experience  Now, let's see what a valid HTML file returns
+### A Valid HTML Experience 
+
+Now, let's see what a valid HTML file returns.
 
 1. Open the [`example_code_passing_validation.html`][s3-valid] file in a new
    tab. This will now be our new **viewing tab**
