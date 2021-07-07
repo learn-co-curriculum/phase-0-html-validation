@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-1. Identify W3C organization
-2. Validate sample HTML
-3. Identify HTML errors
+- Identify W3C organization
+- Validate sample HTML
+- Identify HTML errors
 
 ## Introduction
 
