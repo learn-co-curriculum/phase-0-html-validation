@@ -86,7 +86,7 @@ In this case, it's letting us know that our error is on line 10, from column
 JavaScript and CSS as well as HTML. These error messages can serve as a road map
 to us, and help us troubleshoot much more efficiently.
 
-### A Valid HTML Experience 
+### A Valid HTML Experience
 
 Now, let's see what a valid HTML file returns.
 
@@ -100,9 +100,9 @@ Now, let's see what a valid HTML file returns.
    tab
 5. If not already selected, select the tab that says "Validate by Direct
    Input"
-5. Paste all of your copied HTML in the text box labeled "Enter the Markup to
+6. Paste all of your copied HTML in the text box labeled "Enter the Markup to
    validate:"
-6. Click the button labeled "Check"
+7. Click the button labeled "Check"
 
 You should see a green bar denoting that there are no errors or warnings to
 show.
@@ -111,16 +111,10 @@ show.
 
 ## Resources
 
-[W3C](https://www.w3.org/)
-
-[HTML Validation Tool](https://validator.w3.org/)
-
-[Why Validate?](https://validator.w3.org/docs/why.html)
-
-[Video Walk-Through of HTML Validation](https://www.youtube.com/watch?v=nYglnxMUixM)
+- [W3C](https://www.w3.org/)
+- [HTML Validation Tool](https://validator.w3.org/)
+- [Why Validate?](https://validator.w3.org/docs/why.html)
 
 [s3-invalid]: https://curriculum-content.s3.amazonaws.com/web-development/html-validation/example_code.html
 [s3-valid]: https://curriculum-content.s3.amazonaws.com/web-development/html-validation/example_code_passing_validation.html
 [valid8r]: https://validator.w3.org/#validate_by_input
-
-
