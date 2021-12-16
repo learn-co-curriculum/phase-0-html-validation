@@ -35,7 +35,7 @@ everything else looks pretty good.
 
 Now let's try validating the code to identify where we went wrong.
 
-1. In your **viewing tab**, navigate View &rarr; Developer &rarr; View Source
+1. In your **viewing tab**, navigate to View &rarr; Developer &rarr; View Source
    _or_ press Command-Option-U. This will give you the "Source View" of the
    document
 2. Select the whole of the HTML contents in the file, and copy them
